@@ -1,0 +1,31 @@
+
+.component-place-order{
+table{
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    color: black;
+    border-collapse: collapse;
+    button {
+        font-size: 15px;
+        padding: 8px 40px;
+        margin: 8px 0;
+        width: 180px;
+        border-radius: 20px;
+        background-color: #c68c53;
+        color: black;
+        text-align: center;
+        font-style: italic;
+      }
+    }
+}
+.component-place-order table td{
+    background-color: white;
+    border: none;
+    padding: 3px;
+}
+.component-place-order table th{
+    background-color: white;
+    border: none;
+    padding: 3px;
+}

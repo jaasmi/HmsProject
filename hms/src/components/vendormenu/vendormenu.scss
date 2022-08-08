@@ -1,0 +1,43 @@
+.component-vendormenu{
+  background-color: #fff3d4;
+  display: flex;
+  font-size: 20px;
+
+  position: relative;
+    width: 100%;
+    height: 70px;
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+}
+.component-vendormenu li {
+    // removes default disc bullet for li tags and applies margin to left & right side
+    list-style-type: none;
+    margin: 0 2rem;
+  }
+.adminlist {
+    display: flex;
+    padding-top: 7px;
+    color: black;
+    
+  }
+
+  .menu_list {
+    // increases the surface area of the anchor tag to span more than just the anchor text
+    text-decoration: none;
+    color: black;
+    display: block;
+    width: 100%;
+  }
+
+  // body {
+  //   font-family: "Karla", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+  //     "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  //     sans-serif;
+  //   -webkit-font-smoothing: antialiased;
+  //   -moz-osx-font-smoothing: grayscale;
+  // }
+
+  article h1 {
+    margin: 1rem 0;
+  }

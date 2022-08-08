@@ -1,0 +1,35 @@
+.table-list{
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 10px;
+    height: 320px;
+    width: 500px;
+    border-color: black;
+}
+
+.table-list > h3{
+    padding-top: 20px;
+
+}
+.table-bordered{
+    padding: 20px;
+    width: 450px;
+    border-color: black;
+}
+
+.table-bordered tr{
+    padding: 20px;
+    border-color: black;
+}
+
+.table-head{
+    padding: 5px;
+    margin-left: 20px;
+    float: left;
+    width: 20%; 
+}
+
+.table-data{
+    margin-left: 25px;
+    width: 200px;
+}

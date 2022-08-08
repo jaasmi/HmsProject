@@ -1,0 +1,42 @@
+.component-book-room me{
+    position: relative;
+    width: 1200px;
+    height: 60px;   
+    
+}
+.component-book-room{
+table{
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    color: black;
+    border-collapse: collapse;
+    button {
+        font-size: 15px;
+        padding: 8px 40px;
+        margin: 8px 0;
+        background-color: #c68c53;
+        color: black;
+        text-align: center;
+        font-style: italic;
+        width: 165px;
+        border-radius: 20px;
+      }
+    }
+}
+.component-book-room table td{
+    background-color: white;
+    border: none;
+    padding: 2px;
+}
+.component-book-room table th{
+    background-color: white;
+    border: none;
+    padding: 3px;
+}
+
+select{
+    background: white;
+    width: 165px;
+    height: 20px;
+}
